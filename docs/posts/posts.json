@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-12-06T21:49:44-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-12-06-anlise-da-base-rais/",
+    "title": "Análise da base RAIS",
+    "description": "Essa análise tem como objetivo analisar os salários na base de dados RAIS.",
+    "author": [
+      {
+        "name": "Edneide Ramalho",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-12-06",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-06T22:05:54-03:00",
+    "input_file": "anlise-da-base-rais.knit.md"
   }
 ]
